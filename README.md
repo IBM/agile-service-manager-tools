@@ -7,7 +7,7 @@
 <!-- Not always needed, but a scope helps the user understand in a short sentance like below, why this repo exists -->
 ## Scope
 
-This repository is for the sharing of tools for the IBM Agile Service Manager product
+Agile Service Manager Tools is repository of examples and tools to help you integrate Agile Service Manager's capabilities and APIs into your existing NOI or other service assurance products.
 
 <!-- A more detailed Usage or detailed explaination of the repository here -->
 ## Usage
