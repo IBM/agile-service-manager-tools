@@ -23,13 +23,7 @@ This repository contains some example best practices for open source repositorie
 <!-- A Changelog allows you to track major changes and things that happen, https://github.com/github-changelog-generator/github-changelog-generator can help automate the process -->
 * [CHANGELOG.md](CHANGELOG.md)
 
-> These are optional
 
-<!-- The following are OPTIONAL, but strongly suggested to have in your repository. -->
-* [dco.yml](.github/dco.yml) - This enables DCO bot for you, please take a look https://github.com/probot/dco for more details.
-* [travis.yml](.travis.yml) - This is a example `.travis.yml`, please take a look https://docs.travis-ci.com/user/tutorial/ for more details.
-
-These may be copied into a new or existing project to make it easier for developers not on a project team to collaborate.
 
 <!-- A notes section is useful for anything that isn't covered in the Usage or Scope. Like what we have below. -->
 ## Notes
@@ -52,10 +46,10 @@ example:
 
 If you would like to see the detailed LICENSE click [here](LICENSE).
 
-- Author: New OpenSource IBMer <new-opensource-ibmer@ibm.com>
+- Author: Chris Carrington
 
 ```text
-Copyright:: 2019- IBM, Inc
+Copyright:: 2020 IBM, Inc
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -72,4 +66,4 @@ limitations under the License.
 
 
 [coc]: https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
-[issues]: https://github.com/IBM/repo-template/issues/new
+[issues]: https://github.com/IBM/agile-service-manager-tools/issues/new
